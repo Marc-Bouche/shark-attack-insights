@@ -20,7 +20,7 @@ This project is part of a quest to advance Python programming skills, practice d
 
 ## Dataset
 
-The dataset is sourced from the [Global Shark Attack File](https://www.sharkattackfile.net/) and contains information on shark attack incidents worldwide.
+The dataset is sourced from the [Global Shark Attack File]([https://www.sharkattackfile.net/](https://www.sharkattackfile.net/spreadsheets/GSAF5.xls) and contains information on shark attack incidents worldwide.
 
 ### Key Dataset Features:
 - **Date**: The date of the incident.
